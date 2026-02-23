@@ -22,8 +22,6 @@ This project analyzes large-scale job posting data (~94,000 records) to identify
 3. Clean and transform salary + experience (`sql/03_transform_clean.sql`)
 4. Normalize skills + create fact tables for Power BI (`sql/04_normalization_and_facts.sql`)
 
----
-
 ### 2. Business Intelligence Dashboard (Power BI)
 Designed interactive dashboard with:
 
